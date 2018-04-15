@@ -1,0 +1,22 @@
+div.korsi{
+
+	background: white;
+
+}
+div.korsi.seat{
+
+	background: red;
+
+}
+
+div.korsi.default{
+
+	background: white;
+
+}
+
+div.korsi.selected{
+
+	background: #ff8c00;
+
+}
